@@ -1,6 +1,6 @@
 #REDIS -TORNADO -SESSION
 
-Refer to ![tornado-mechane-session] (https://github.com/mmejia27/tornado-memcached-sessions)
+Refer to [tornado-mechane-session] (https://github.com/mmejia27/tornado-memcached-sessions)
 
 ##use
 
@@ -10,7 +10,6 @@ Refer to ![tornado-mechane-session] (https://github.com/mmejia27/tornado-memcach
 ```
  2. 
  download session.py
-
  3.
  Refer to example
 
